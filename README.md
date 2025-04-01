@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on object detection using deep learning models.<br>I am learning full stack development on the side, with an emphasis on React and Nodejs.<br>I like to read in my free time. I am currently reading Street Smarts by Jim Rogers.
+Software engineer at Orsted.
 
 
 ## 🌐 Socials:
